@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;IACI,mBAAmB;AACvB,C","sources":["webpack://api-books-javascript/./frontend/styles/app.css"],"sourcesContent":["body {\r\n    background: #dcdde1;\r\n}"],"names":[],"sourceRoot":""}
